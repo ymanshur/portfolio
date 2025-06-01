@@ -7,7 +7,7 @@
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-      
+
       gtag('config', '{{ site.google_analytics }}');
    </script>
    {% endif %}
@@ -28,11 +28,12 @@
          <img src="{{site.logo | relative_url}}" alt="Logo" />
          {% endif %}
          <p>{{ site.description | default: site.github.project_tagline }}</p>
-         {% if site.github.is_project_page %}
+         <!-- {% if site.github.is_project_page %}
          <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
-         {% endif %}
+         {% endif %} -->
          {% if site.github.is_user_page %}
          <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
+         <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/ymanshur"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">ymanshur</span></a></li><li><a href="https://www.linkedin.com/in/ymanshur"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#linkedin"></use></svg> <span class="username">ymanshur</span></a></li><li><a href="https://www.twitter.com/ymanshur"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">ymanshur</span></a></li></ul>
          {% endif %}
          {% if site.show_downloads %}
          <ul class="downloads">

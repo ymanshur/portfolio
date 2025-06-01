@@ -1,13 +1,13 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Yusuf Manshur # your name (or website title) here
+# logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  I am a software engineer with over five years of experience— consistently leverage best practices to deliver robust, efficient software.
   <br><br>
-  Second description 
+  My expertise spans monitoring dashboards, document control, and significantly contributes to ERP-related and warehouse management systems.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
-  
+  <a href="https://www.linkedin.com/in/ymanshur/">View My LinkedIn Profile</a>
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+  - jekyll-remote-theme
+# google_analytics: UA-000000-0 # your Google Analytics tracking ID here
