@@ -10,9 +10,9 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
 
-A distributed financial transaction and ledger ecosystem built to orchestrate balance actions (e.g., top-up, usage, void, transfer) and record cost-revenue events to an internal ERP system. The platform consists of two core services:
+A distributed financial transaction and ledger ecosystem built to orchestrate balance actions (e.g., top-up, book-usage, transfer) and record cost-revenue events to an internal ERP system. The platform consists of two core services:
 
-- **Transaction Service** – Acts as a data aggregator and executor, handling real-time balance actions and routing financial records to the ERP system.
+- **Transaction Service** – Acts as a data aggregator and executor, handling real-time balance actions and routing financial records to the internal ERP system.
 - **Wallet Service** – Serves as the centralized ledger, maintaining accurate, auditable records of all user balances and usage activities.
 
 Designed with event-driven principles and optimized for high availability, low latency, and strong consistency across services.
@@ -29,7 +29,6 @@ Designed with event-driven principles and optimized for high availability, low l
 - Proficient in building and scaling distributed financial systems with strong transactional guarantees.
 - Deep experience in **event-driven architecture**, real-time processing, and message-based orchestration.
 - Skilled in implementing **distributed locks**, transactional safety, and performance optimizations for high-throughput systems.
-- Strong design capabilities for **multi-tenant financial models**, including subscription lifecycles, account migrations, and ERP integrations.
 - Able to lead full-lifecycle service development—from initial concept to production-ready deployment.
 
 ### Challenges

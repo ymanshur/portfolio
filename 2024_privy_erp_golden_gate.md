@@ -11,7 +11,7 @@
 
 ## Integration Project: ERP - GoldenGate Orchestrator
 
-A backend service responsible for orchestrating transactional data—including top-up, usage, void, and transfer—between internal systems and a third-party ERP platform. The service acts as a orchestrator ensuring data integrity and near real-time event synchronization across business units.
+A backend service responsible for **orchestrating transactional data**—including top-up, usage, void, and transfer—between internal systems and a third-party ERP platform. The service acts as a orchestrator ensuring **data integrity and near real-time event synchronization** across business units.
 
 **Tech Stack**
 
@@ -22,14 +22,14 @@ A backend service responsible for orchestrating transactional data—including t
 
 ### Capabilities
 
-- Proficient in building scalable, event-driven microservices in Golang using Google Pub/Sub.
-- Experienced in integrating external ERP systems with strong data consistency guarantees.
+- Proficient in building scalable, **event-driven microservices** in Golang using Google Pub/Sub.
+- Experienced in integrating external ERP systems with **strong data consistency** guarantees.
 
 ### Challenges
 
-- Ensured high consistency and low-latency performance for transaction-heavy workloads under high traffic.
-- Handled shadow balance/subscription logic to maintain transactional accuracy before ERP confirmation.
-- Supported seamless data migration while maintaining system integrity and uptime.
+- Ensured high consistency and low-latency performance for **transaction-heavy workload**s** under high traffic.
+- Handled shadow balance/subscription logic to **maintain transactional accuracy** before ERP confirmation.
+- Supported **seamless data migration** while maintaining system integrity and uptime.
 
 ### Architecture
 

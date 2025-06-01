@@ -7,7 +7,7 @@
 
 ## Digital Document Center (DDC) - TRAKINDO
 
-The Digital Document Center (DDC) is a comprehensive dashboard to streamline and monitor document lifecycle activities, including upload, distribution (blast), approval, rejection, and electronic signing (both standard and with e-Meterai). This system is seamlessly integrated with Privy Core, allowing secure and compliant digital signature capabilities.
+The Digital Document Center (DDC) is a comprehensive dashboard to streamline and **monitor document lifecycle activities**, including upload, distribution (blast), approval, rejection, and electronic signing (both standard and with e-Meterai). This system is seamlessly **integrated with Privy Core**, allowing secure and compliant digital signature capabilities.
 
 **Website:** [ddc.trakindo.co.id](https://ddc.trakindo.co.id)
 
@@ -20,10 +20,10 @@ The Digital Document Center (DDC) is a comprehensive dashboard to streamline and
 ### Capabilities
 
 - Proficient in building RESTful APIs using Ruby on Rails and Grape.
-- Experienced in integrating third-party services (e.g., digital signatures with Privy Core).
+- Experienced in **integrating third-party** services (e.g., digital signatures with Privy Core).
 - Skilled in implementing document processing workflows including digital signing and e-stamping.
-- Strong understanding of enterprise user management and multi-level permission systems.
-- Familiar with CI/CD pipelines and container orchestration using Jenkins and Docker.
+- Strong understanding of enterprise user management and **multi-level permission systems**.
+- Familiar with CI/CD pipelines and container **orchestration using Jenkins and Docker**.
 - Able to quickly ramp up on unfamiliar codebases and technologies to contribute effectively.
 
 ### Challenges

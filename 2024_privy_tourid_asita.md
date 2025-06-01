@@ -9,7 +9,7 @@
 
 ## Customization Project: TourID x ASITA
 
-TourID x ASITA is a platform designed to facilitate transactions between travellers and Indonesian travel agents. All participating travel agents are members of the **Association of the Indonesian Tours and Travel Agencies (ASITA)** and possess **digital certificates issued by Privy**.
+TourID x ASITA is a platform designed to facilitate transactions between travelers and Indonesian travel agents. All participating travel agents are members of the Association of the Indonesian Tours and Travel Agencies (ASITA) and possess **digital certificates issued by Privy**.
 
 **Tech Stack:**
 

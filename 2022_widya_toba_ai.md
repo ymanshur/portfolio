@@ -7,9 +7,9 @@
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-It is Widya Analytic main baseline product which has been developed using Vue.js, Django REST Framework, and PostgreSQL. In general, this app provides artificial intelligence technology primarily for trend recognition and text sentiment analysis. Toba.ai performs an ETL data pipeline using Airflow to crawl data sources, manage the data lake and transform the data into a structured data table.
+It is Widya Analytic main baseline product. In general, this app provides artificial intelligence technology primarily for trend recognition and text sentiment analysis. Toba.AI performs an ETL data pipeline using Airflow to crawl data sources from Instagram and Twitter, manage the data lake and transform the data into a structured data table.
 
-I have been developing the API that returns analytical insight of a social media (Instagram) account. The data is presented by graph and statistics numbers at the 'Statistik' and 'Top Post' tabs. The API needs complex queries to aggregate the cube of structured analytical data including the time series of account data, sentiment and another account insight.*digital certificates issued by Privy**.
+I have been developing the API that returns **analytical insight of a social media** (Instagram) account. The data is presented by graph and statistics numbers at the 'Statistik' and 'Top Post' tabs. The API needs complex queries to aggregate the cube of structured analytical data including the time series of account data, sentiment and another account insight.
 
 **Tech Stack:**
 
