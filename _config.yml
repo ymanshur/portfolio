@@ -5,7 +5,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   My expertise spans monitoring dashboards, document control, and significantly contributes to ERP-related and warehouse management systems.
   <br><br>
-  <a href="https://www.linkedin.com/in/ymanshur/">View My LinkedIn Profile</a>
+  <p>View My <a target="_blank" href="https://www.linkedin.com/in/ymanshur/">LinkedIn</a> Profile and <a target="_blank" href="https://docs.google.com/document/d/1JcYohTtQgSn_rgWdqpqWuEuGieGiSaVuf6Q1mL6_z-s/edit?usp=sharing">Resume</a></p>
+  <br><br>
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
