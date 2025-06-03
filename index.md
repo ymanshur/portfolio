@@ -2,7 +2,7 @@
 
 ### 2025
 
-#### [Transaction-Wallet System](/portfolio/2025_privy_transaction_wallet)
+#### [Transaction-Wallet](/portfolio/2025_privy_transaction_wallet)
 
 A distributed financial transaction and ledger ecosystem built to orchestrate balance actions.
 
@@ -10,36 +10,51 @@ A distributed financial transaction and ledger ecosystem built to orchestrate ba
 
 ### 2024
 
-#### [ERP - GoldenGate Orchestrator](/portfolio/2024_privy_erp_golden_gate)
+#### [CRM - ERP Orchestrator](/portfolio/2024_privy_crm_erp_orchestrator)
 
-A backend service responsible for orchestrating transactional data between internal systems and a third-party ERP platform.
+A backend service responsible for orchestrating customer interactions and transactional data between internal systems and third-party CRM-ERP platforms.
 
 ---
 
-#### [TourID x ASITA](/portfolio/2024_privy_tourid_asita)
+#### [Tour-agent Application](/portfolio/2024_privy_tour_agent)
 
-TourID x ASITA is a platform designed to facilitate transactions between travelers and verified travel agents.
+A platform designed to facilitate transactions between travelers and verified travel agents.
 
 ---
 
 ### 2023
 
-#### [Digital Document Center (DDC) - TRAKINDO](/portfolio/2023_privy_dcc_trakindo)
+#### [Digital Document Center (DDC)](/portfolio/2023_privy_dcc)
 
-The Digital Document Center (DDC) is a dashboard for streamlining document workflows, covering upload, blasting — OTP, approval, rejection, and e-signing with Privy Core integration.
+The Digital Document Center (DDC) is a dashboard for streamlining document workflows, covering upload, blasting—OTP, approval, rejection, e-meterai and e-signing with Privy integration.
 
 ---
 
 ### 2022
 
-#### [Toba.AI](/portfolio/2022_widya_toba_ai)
+#### [Widya Analytic Documentation](/portfolio/2022_widya_analytic_doc)
 
-Social media analysis platform (Twitter and Instagram) that provides social media performance, sentiment, and trend analysis.
+The Widya Analytic Documentation serves as a comprehensive hub for all Widya Analytic's product and development information.
 
 ---
 
+### 2021
+
+#### [Widya Analytics Store](/portfolio/2021_widya_analytic_store)
+
+The website provides Widya Analytic products store. The website also has a CMS page, a blog, and event management tools.
+
+---
+
+### 2020
+
+#### [Toba.AI](/portfolio/2020_widya_toba_ai)
+
+Social media analysis platform (Twitter and Instagram) that provides social media performance, sentiment, and trend analysis.
+
+<!-- ---
+
 <footer style="position:static">
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
-</footer>
-
+</footer> -->
+<!-- Remove above link if you don't want to attribute -->
