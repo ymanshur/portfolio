@@ -31,7 +31,7 @@ Toba.AI is Widya Analytic’s flagship product that leverages artificial intelli
 ### Architecture
 
 <figure style="width:100%">
-    <a href="portfolio/images/widya_toba_ai_architecture.png"
+    <a href="images/widya_toba_ai_architecture.png"
     target="_blank"
     rel="noopener noreferrer">
         <img src="images/widya_toba_ai_architecture.png" alt="Widya Analytic: Toba.AI - Architecture">
@@ -42,7 +42,7 @@ Toba.AI is Widya Analytic’s flagship product that leverages artificial intelli
 ### Documentation
 
 <figure style="width:100%">
-    <a href="portfolio/images/widya_toba_ai_v0.png"
+    <a href="images/widya_toba_ai_v0.png"
     target="_blank"
     rel="noopener noreferrer">
         <img src="images/widya_toba_ai_v0.png" alt="Widya: Toba.AI V0 - Pitch">
@@ -53,7 +53,7 @@ Toba.AI is Widya Analytic’s flagship product that leverages artificial intelli
 <div style="display:flex">
   <div style="flex:50%;margin-right:10px">
     <figure style="width:100%">
-        <a href="portfolio/images/widya_toba_ai_v1_brand_list.png"
+        <a href="images/widya_toba_ai_v1_brand_list.png"
         target="_blank"
         rel="noopener noreferrer">
             <img src="images/widya_toba_ai_v1_brand_list.png" alt="Widya: Toba.AI V1 - Brand List">
@@ -63,7 +63,7 @@ Toba.AI is Widya Analytic’s flagship product that leverages artificial intelli
   </div>
   <div style="flex:50%">
     <figure style="width:100%">
-        <a href="portfolio/images/widya_toba_ai_v1_brand_detail.png"
+        <a href="images/widya_toba_ai_v1_brand_detail.png"
         target="_blank"
         rel="noopener noreferrer">
             <img src="images/widya_toba_ai_v1_brand_detail.png" alt="Widya: Toba.AI V1 - Brand Detail">
@@ -76,7 +76,7 @@ Toba.AI is Widya Analytic’s flagship product that leverages artificial intelli
 <div style="display:flex">
   <div style="flex:33%;margin-right:10px">
     <figure style="width:100%">
-        <a href="portfolio/images/widya_toba_ai_v2_audiens.png"
+        <a href="images/widya_toba_ai_v2_audiens.png"
         target="_blank"
         rel="noopener noreferrer">
             <img src="images/widya_toba_ai_v2_audiens.png" alt="Widya: Toba.AI V2 - Audiens">
@@ -86,7 +86,7 @@ Toba.AI is Widya Analytic’s flagship product that leverages artificial intelli
   </div>
   <div style="flex:33%;margin-right:10px">
     <figure style="width:100%">
-        <a href="portfolio/images/widya_toba_ai_v2_kompetitor.png"
+        <a href="images/widya_toba_ai_v2_kompetitor.png"
         target="_blank"
         rel="noopener noreferrer">
             <img src="images/widya_toba_ai_v2_kompetitor.png" alt="Widya: Toba.AI V2 - Kompetitor">
@@ -96,7 +96,7 @@ Toba.AI is Widya Analytic’s flagship product that leverages artificial intelli
   </div>
   <div style="flex:33%">
     <figure style="width:100%">
-        <a href="portfolio/images/widya_toba_ai_v2_performa.png"
+        <a href="images/widya_toba_ai_v2_performa.png"
         target="_blank"
         rel="noopener noreferrer">
             <img src="images/widya_toba_ai_v2_performa.png" alt="Widya: Toba.AI V2 - Performa">

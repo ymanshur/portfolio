@@ -47,7 +47,7 @@ During that process, we found we needed to <b>redesign the architecture</b>, whi
 <div style="display:flex">
   <div style="flex:50%;margin-right:20px">
     <figure style="width:100%">
-        <a href="portfolio/images/privy_tour_dolphin_verifier_architecture.png"
+        <a href="images/privy_tour_dolphin_verifier_architecture.png"
         target="_blank"
         rel="noopener noreferrer">
             <img src="images/privy_tour_dolphin_verifier_architecture.png" alt="Privy: Tour-Dolphin-Verifier Architecture">
@@ -57,7 +57,7 @@ During that process, we found we needed to <b>redesign the architecture</b>, whi
   </div>
   <div style="flex:50%">
     <figure style="width:100%">
-        <a href="portfolio/images/privy_tour_verifier_architecture.png"
+        <a href="images/privy_tour_verifier_architecture.png"
         target="_blank"
         rel="noopener noreferrer">
             <img src="images/privy_tour_verifier_architecture.png" alt="Privy: Tour-Verifier Architecture">
@@ -70,7 +70,7 @@ During that process, we found we needed to <b>redesign the architecture</b>, whi
 ### Documentation
 
 <figure style="width:100%">
-    <a href="portfolio/images/privy_tour_landing.png"
+    <a href="images/privy_tour_landing.png"
     target="_blank"
     rel="noopener noreferrer">
         <img src="images/privy_tour_landing.png" alt="Privy: Tour Landing">
@@ -79,7 +79,7 @@ During that process, we found we needed to <b>redesign the architecture</b>, whi
 </figure>
 
 <figure style="width:100%">
-    <a href="portfolio/images/privy_tour_login.png"
+    <a href="images/privy_tour_login.png"
     target="_blank"
     rel="noopener noreferrer">
         <img src="images/privy_tour_login.png" alt="Privy: Tour Login">
@@ -88,7 +88,7 @@ During that process, we found we needed to <b>redesign the architecture</b>, whi
 </figure>
 
 <figure style="width:100%">
-    <a href="portfolio/images/privy_tour_verifier_login.png"
+    <a href="images/privy_tour_verifier_login.png"
     target="_blank"
     rel="noopener noreferrer">
         <img src="images/privy_tour_verifier_login.png" alt="Privy: Verifier Login">
@@ -99,7 +99,7 @@ During that process, we found we needed to <b>redesign the architecture</b>, whi
 <div style="display:flex">
   <div style="flex:50%;margin-right:20px">
     <figure style="width:100%">
-        <a href="portfolio/images/privy_tour_verifier_dashboard.png"
+        <a href="images/privy_tour_verifier_dashboard.png"
         target="_blank"
         rel="noopener noreferrer">
             <img src="images/privy_tour_verifier_dashboard.png" alt="Privy: Verifier Dashboard">
@@ -109,7 +109,7 @@ During that process, we found we needed to <b>redesign the architecture</b>, whi
   </div>
   <div style="flex:50%">
     <figure style="width:100%">
-        <a href="portfolio/images/privy_tour_verifier_registration.png"
+        <a href="images/privy_tour_verifier_registration.png"
         target="_blank"
         rel="noopener noreferrer">
             <img src="images/privy_tour_verifier_registration.png" alt="Privy: Verifier Registration">

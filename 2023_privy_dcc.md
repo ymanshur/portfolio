@@ -23,7 +23,7 @@ The Digital Document Center (DDC) is a comprehensive dashboard to s<b>treamline 
 - Developed a <b>top-up/transfer balance API</b>, integrated with two internal systems related to invoicing and warehousing (e.g., Portal and Sales).
 - Built a <b>user management system</b> with 3-level hierarchical access (Area, Branch, Department), supporting 348 enterprise users and 250 departments.
     <figure style="width:50%">
-        <a href="portfolio/images/privy_dcc_user_hierarchy.jpg.png"
+        <a href="images/privy_dcc_user_hierarchy.jpg.png"
         target="_blank"
         rel="noopener noreferrer">
             <img src="images/privy_dcc_user_hierarchy.jpg" alt="Privy: DCC User Hierarchy">
@@ -43,7 +43,7 @@ The Digital Document Center (DDC) is a comprehensive dashboard to s<b>treamline 
 ### Documentation
 
 <figure style="width:100%">
-    <a href="portfolio/images/privy_dcc_document_ongoing.png"
+    <a href="images/privy_dcc_document_ongoing.png"
     target="_blank"
     rel="noopener noreferrer">
         <img src="images/privy_dcc_document_ongoing.png" alt="Privy: DCC Document Ongoing">
@@ -52,7 +52,7 @@ The Digital Document Center (DDC) is a comprehensive dashboard to s<b>treamline 
 </figure>
 
 <figure style="width:100%">
-    <a href="portfolio/images/privy_dcc_document_completed.png"
+    <a href="images/privy_dcc_document_completed.png"
     target="_blank"
     rel="noopener noreferrer">
         <img src="images/privy_dcc_document_completed.png" alt="Privy: Document Completed">
@@ -61,7 +61,7 @@ The Digital Document Center (DDC) is a comprehensive dashboard to s<b>treamline 
 </figure>
 
 <figure style="width:100%">
-    <a href="portfolio/images/privy_dcc_document_completed_preview.png"
+    <a href="images/privy_dcc_document_completed_preview.png"
     target="_blank"
     rel="noopener noreferrer">
         <img src="images/privy_dcc_document_completed_preview.png" alt="Privy: Document Completed Preview">
@@ -70,7 +70,7 @@ The Digital Document Center (DDC) is a comprehensive dashboard to s<b>treamline 
 </figure>
 
 <figure style="width:100%">
-    <a href="portfolio/images/privy_dcc_document_void_reject.png"
+    <a href="images/privy_dcc_document_void_reject.png"
     target="_blank"
     rel="noopener noreferrer">
         <img src="images/privy_dcc_document_void_reject.png" alt="Privy: Document Void & Reject">
@@ -81,7 +81,7 @@ The Digital Document Center (DDC) is a comprehensive dashboard to s<b>treamline 
 <div style="display:flex">
   <div style="flex:50%;margin-right:10px">
     <figure style="width:100%">
-        <a href="portfolio/images/privy_dcc_balance_transfer.png"
+        <a href="images/privy_dcc_balance_transfer.png"
         target="_blank"
         rel="noopener noreferrer">
             <img src="images/privy_dcc_balance_transfer.png" alt="Privy: Balance Transfer">
@@ -91,7 +91,7 @@ The Digital Document Center (DDC) is a comprehensive dashboard to s<b>treamline 
   </div>
   <div style="flex:50%">
     <figure style="width:100%">
-        <a href="portfolio/images/privy_dcc_balance_top_up.jpg"
+        <a href="images/privy_dcc_balance_top_up.jpg"
         target="_blank"
         rel="noopener noreferrer">
             <img src="images/privy_dcc_balance_top_up.jpg" alt="Privy: Balance Top-Up">
@@ -102,7 +102,7 @@ The Digital Document Center (DDC) is a comprehensive dashboard to s<b>treamline 
 </div>
 
 <figure style="width:100%">
-    <a href="portfolio/images/privy_dcc_user_setting.png"
+    <a href="images/privy_dcc_user_setting.png"
     target="_blank"
     rel="noopener noreferrer">
         <img src="images/privy_dcc_user_setting.png" alt="Privy: User Setting">
@@ -111,7 +111,7 @@ The Digital Document Center (DDC) is a comprehensive dashboard to s<b>treamline 
 </figure>
 
 <figure style="width:100%">
-    <a href="portfolio/images/privy_dcc_http_logs.png"
+    <a href="images/privy_dcc_http_logs.png"
     target="_blank"
     rel="noopener noreferrer">
         <img src="images/privy_dcc_http_logs.png" alt="Privy: HTTP Logs">

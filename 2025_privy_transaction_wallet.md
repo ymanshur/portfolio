@@ -54,7 +54,7 @@ Designed with event-driven principles and optimized for high availability, low l
 ### Architecture
 
 <figure style="width:100%">
-    <a href="portfolio/images/privy_transaction_wallet_architecture.png"
+    <a href="images/privy_transaction_wallet_architecture.png"
        target="_blank"
        rel="noopener noreferrer">
         <img src="images/privy_transaction_wallet_architecture.png" alt="Privy: Transaction - Wallet Architecture">

@@ -26,7 +26,7 @@ The Widya Analytic Documentation, serves as a centralized and structured knowled
 ### Documentation
 
 <figure style="width:100%">
-    <a href="portfolio/images/2022_widya_analytic_doc_architecture.png"
+    <a href="images/2022_widya_analytic_doc_architecture.png"
     target="_blank"
     rel="noopener noreferrer">
         <img src="images/2022_widya_analytic_doc_architecture.png" alt="Widya Analytic: Documentation - ETL Architecture">
@@ -37,7 +37,7 @@ The Widya Analytic Documentation, serves as a centralized and structured knowled
 <div style="display:flex">
   <div style="flex:50%;margin-right:10px">
     <figure style="width:100%">
-        <a href="portfolio/images/2022_widya_analytic_doc_feature_dashboard.png"
+        <a href="images/2022_widya_analytic_doc_feature_dashboard.png"
         target="_blank"
         rel="noopener noreferrer">
             <img src="images/2022_widya_analytic_doc_feature_dashboard.png" alt="Widya Analytic: Documentation - Dashboard">
@@ -47,7 +47,7 @@ The Widya Analytic Documentation, serves as a centralized and structured knowled
   </div>
   <div style="flex:50%">
     <figure style="width:100%">
-        <a href="portfolio/images/2022_widya_analytic_doc_feature_connect_facebook.png"
+        <a href="images/2022_widya_analytic_doc_feature_connect_facebook.png"
         target="_blank"
         rel="noopener noreferrer">
             <img src="images/2022_widya_analytic_doc_feature_connect_facebook.png" alt="Widya Analytic: Documentation - Connect Facebook">
@@ -58,7 +58,7 @@ The Widya Analytic Documentation, serves as a centralized and structured knowled
 </div>
 
 <figure style="width:100%">
-    <a href="portfolio/images/2022_widya_analytic_doc_endpoint.png"
+    <a href="images/2022_widya_analytic_doc_endpoint.png"
     target="_blank"
     rel="noopener noreferrer">
         <img src="images/2022_widya_analytic_doc_endpoint.png" alt="Widya Analytic: Documentation - Endpoint">

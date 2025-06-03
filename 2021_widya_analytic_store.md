@@ -37,7 +37,7 @@ A comprehensive web platform that hosts the <b>Widya Analytic product store</b>,
 ### Architecture
 
 <figure style="width:100%">
-    <a href="portfolio/images/widya_analytic_store_architecture.png"
+    <a href="images/widya_analytic_store_architecture.png"
     target="_blank"
     rel="noopener noreferrer">
         <img src="images/widya_analytic_store_architecture.png" alt="Widya Analytic: Store - Architecture">
@@ -48,7 +48,7 @@ A comprehensive web platform that hosts the <b>Widya Analytic product store</b>,
 ### Documentation
 
 <figure style="width:100%">
-    <a href="portfolio/images/2021_widya_analytic_store_banner.png"
+    <a href="images/2021_widya_analytic_store_banner.png"
     target="_blank"
     rel="noopener noreferrer">
         <img src="images/2021_widya_analytic_store_banner.png" alt="Widya Analytic: Store - Banner">

@@ -40,7 +40,7 @@ CRM-ERP system is a backend service responsible for <b>orchestrating end-to-end 
 ### Architecture
 
 <figure style="width:100%">
-    <a href="portfolio/images/privy_crm_erp_orchestrator_outbound_architecture.png"
+    <a href="images/privy_crm_erp_orchestrator_outbound_architecture.png"
        target="_blank"
        rel="noopener noreferrer">
         <img src="images/privy_crm_erp_orchestrator_outbound_architecture.png" alt="Privy: CRM - ERP Orchestrator Ourbound Architecture">
@@ -49,7 +49,7 @@ CRM-ERP system is a backend service responsible for <b>orchestrating end-to-end 
 </figure>
 
 <figure style="width:100%">
-    <a href="portfolio/images/privy_crm_erp_orchestrator_inbound_architecture.png"
+    <a href="images/privy_crm_erp_orchestrator_inbound_architecture.png"
        target="_blank"
        rel="noopener noreferrer">
         <img src="images/privy_crm_erp_orchestrator_inbound_architecture.png" alt="Privy: CRM - ERP Orchestrator Inbound Architecture">
