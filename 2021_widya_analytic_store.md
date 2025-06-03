@@ -55,3 +55,5 @@ A comprehensive web platform that hosts the <b>Widya Analytic product store</b>,
     </a>
     <figcaption style="text-align:center"><small>Capture 1. Widya Analytic Store - Banner</small></figcaption>
 </figure>
+
+[Back](./)

@@ -118,3 +118,5 @@ The Digital Document Center (DDC) is a comprehensive dashboard to s<b>treamline 
     </a>
     <figcaption style="text-align:center"><small>Capture 8. HTTP Logs</small></figcaption>
 </figure>
+
+[Back](./)

@@ -65,3 +65,5 @@ The Widya Analytic Documentation, serves as a centralized and structured knowled
     </a>
     <figcaption style="text-align:center"><small>Capture 4. Documentation - Endpoint</small></figcaption>
 </figure>
+
+[Back](./)

@@ -105,3 +105,5 @@ Toba.AI is Widya Analytic’s flagship product that leverages artificial intelli
     </figure>
   </div>
 </div>
+
+[Back](./)

@@ -57,6 +57,8 @@ CRM-ERP system is a backend service responsible for <b>orchestrating end-to-end 
     <figcaption style="text-align:center"><small>Figure 2. CRM-ERP Orchestrator inbound architecture</small></figcaption>
 </figure>
 
+[Back](./)
+
 ____
 
 Related articles:
