@@ -1,11 +1,12 @@
 title: Yusuf Manshur # your name (or website title) here
 # logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+description:
+  > # your text below (remove <br> elements if you don't need line breaks)
   I am a software engineer with over five years of experience— consistently leverage best practices to deliver robust, efficient software.
   <br><br>
-  My expertise spans monitoring dashboards, document control, and significantly contributes to ERP-related and warehouse management systems.
+  My expertise spans <em>monitoring dashboards</em>, <em>document control</em>, and significantly contributed to <em>ERP-related integration</em> systems.
   <br><br>
-  <p>View My <a target="_blank" href="https://www.linkedin.com/in/ymanshur/">LinkedIn</a> Profile and <a target="_blank" href="https://docs.google.com/document/d/1JcYohTtQgSn_rgWdqpqWuEuGieGiSaVuf6Q1mL6_z-s/edit?usp=sharing">Resume</a></p>
+  <p>View My <a target="_blank" href="https://www.linkedin.com/in/ymanshur/">LinkedIn</a> Profile and <a target="_blank" href="https://medium.com/@ymanshur">Stories</a></p>
   <br><br>
 
 remote_theme: pages-themes/minimal@v0.2.0
