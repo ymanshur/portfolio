@@ -9,7 +9,7 @@
 <b>Role:</b> Full-Stack Engineer<br/>
 <b>Duration:</b> 2 years
 
-Toba.AI is Widya Analytic’s flagship product that leverages artificial intelligence for <b>trend recognition</b> and <b>text sentiment analysis</b>. The system implements a robust ETL pipeline using Apache Airflow to crawl external data sources, load data into a centralized data lake, and transform it into structured formats for downstream analysis.
+Toba.AI is Widya Analytic’s flagship product that leverages artificial intelligence for <b>social media benchmarking</b>, <b>trend recognition</b>, and <b>text sentiment analysis</b>. The system implements a robust ETL pipeline using Apache Airflow to crawl data from external sources, load data into a centralized data lake, and transform it into structured formats for downstream analysis.
 
 <b>Tech Stack</b>
 
@@ -19,14 +19,14 @@ Toba.AI is Widya Analytic’s flagship product that leverages artificial intelli
 
 ### Contributions
 
-- <b>Insight API Development:</b> Engineered backend APIs to deliver analytical insights from Instagram account data, powering visualizations and metrics across the <b>"Audiens," "Kompetitor,"</b> and <b>"Performa"</b> tabs.
-- <b>Analytical Data Aggregation:</b> Built complex query logic to perform multi-dimensional aggregation (data cube), including time-series breakdowns, sentiment tracking, and statistical number.
+- <b>Insight API Development:</b> Engineered backend APIs to deliver analytical insights from Instagram account data, powering visualizations and metrics across the <b>"Audiens," "Kompetitor,"</b> and <b>"Performa"</b> dashboard.
+- <b>Analytical Data Aggregation:</b> Built complex query logic to perform multi-dimensional aggregation, including time-series breakdowns, sentiment tracking, and statistical number.
 - <b>Scalable Data Architecture:</b> Ensured high-performance delivery of insights by optimizing query structures and schema designs within PostgreSQL to handle large-scale analytical workloads.
 
 ### Capabilities Demonstrated
 
 - Skilled in designing and developing <b>RESTful APIs that serve complex analytical data</b>, enabling insight-driven user experiences through visual dashboards and metrics.
-- Experienced in crafting <b>complex SQL queries</b> to perform multi-dimensional data aggregation (data cube), including time-series analysis and sentiment scoring.
+- Experienced in crafting <b>complex SQL queries</b> to perform multi-dimensional data aggregation (data cube).
 
 ### Architecture
 

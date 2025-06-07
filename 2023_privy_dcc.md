@@ -8,7 +8,7 @@
 <b>Role:</b> Back-End Engineer<br/>
 <b>Duration:</b> 6 months
 
-The Digital Document Center (DDC) is a comprehensive dashboard to s<b>treamline and monitor document lifecycle activities</b>, including upload, distribution (blast), approval, rejection, and electronic signing (both standard and with e-Meterai). This system is seamlessly integrated with Privy Core, allowing secure and compliant <b>digital signature capabilities</b>.
+The Digital Document Center (DDC) is a comprehensive dashboard to s<b>treamline and monitor document lifecycle activities</b>, including upload, distribution (blast), approval, rejection, and electronic signing (both standard and with e-Meterai). This system is seamlessly integrated with Privy, allowing secure and compliant <b>digital signature capabilities</b>.
 
 <b>Tech Stack<b>
 
@@ -20,8 +20,8 @@ The Digital Document Center (DDC) is a comprehensive dashboard to s<b>treamline 
 ### Contributions
 
 - Implemented a feature for signing documents with <b>custom QR codes</b> using the [HexaPDF](https://hexapdf.gettalong.org) library.
-- Developed a <b>top-up/transfer balance API</b>, integrated with two internal systems related to invoicing and warehousing (e.g., Portal and Sales).
-- Built a <b>user management system</b> with 3-level hierarchical access (Area, Branch, Department), supporting 348 enterprise users and 250 departments.
+- Developed a <b>top-up/transfer balance API</b>, integrated with two internal systems related to invoicing and warehousing process (e.g., Portal and Sales).
+- Built a <b>user management system</b> with 3-level main hierarchical access (Area, Branch, Department), supporting 340+ enterprise users and 250+ departments.
     <figure style="width:50%">
         <a href="images/privy_dcc_user_hierarchy.jpg.png"
         target="_blank"
@@ -36,7 +36,7 @@ The Digital Document Center (DDC) is a comprehensive dashboard to s<b>treamline 
 - Quickly <b>adapted to a legacy codebase</b> written in Ruby, a new programming language at the time.
 - Proactively aligned all new features and improvements with the existing code patterns and architecture.
 - Proficient in building <b>RESTful APIs using Ruby on Rails</b> and Grape API (micro-framework).
-- Experienced in <b>integrating third-party services</b> (e.g., digital signatures with Privy Core).
+- Experienced in <b>integrating third-party services</b> (e.g., e-materai and digital signatures with Privy).
 - Strong understanding of enterprise <b>user management and multi-level permission systems.</b>
 - <b>Familiar with CI/CD pipelines</b> and container orchestration using Jenkins and Docker.
 

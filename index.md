@@ -4,7 +4,7 @@
 
 #### [Transaction-Wallet](/portfolio/2025_privy_transaction_wallet)
 
-A distributed financial transaction and ledger ecosystem built to orchestrate balance actions.
+A distributed financial transactions and ledger ecosystem built to orchestrate balance actions
 
 ### 2024
 
@@ -32,13 +32,13 @@ The Widya Analytic Documentation serves as a comprehensive hub for all Widya Ana
 
 #### [Widya Analytics Store](/portfolio/2021_widya_analytic_store)
 
-The website provides Widya Analytic products store. The website also has a CMS page, a blog, and event management tools.
+The One-stop Widya Analytic products platform.
 
 ### 2020
 
 #### [Toba.AI](/portfolio/2020_widya_toba_ai)
 
-Social media analysis platform (Twitter and Instagram) that provides social media performance, sentiment, and trend analysis.
+Social media analysis platform (Twitter and Instagram) that provides social media insights, trend analysis, and sentiment monitoring.
 
 <!-- ---
 

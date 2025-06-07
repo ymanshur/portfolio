@@ -5,7 +5,7 @@
 <b>Role:</b> Technical Writer<br/>
 <b>Duration:</b> 2 months
 
-The Widya Analytic Documentation, serves as a centralized and structured knowledge base for all product and engineering documentation. It consolidates critical information such as <b>High-Level Architecture (HLA)</b> diagrams, <b>API specifications</b>, and <b>service sequence diagrams</b>, ensuring alignment between engineering and product teams. This platform was designed to support clarity, accessibility, and scalability as Widya Analytic's systems evolved.
+The Widya Analytic Documentation platform, serves as a centralized and structured knowledge base for all product and engineering documentations. It consolidates critical information such as <b>High-Level Architecture (HLA)</b> diagrams, <b>API specifications</b>, and <b>service sequence diagrams</b>, ensuring alignment between engineering and product teams. This platform was designed to support clarity and accessibility as Widya Analytic's systems evolved.
 
 <b>Tech Stack:</b> Markdown, Sphinx
 
@@ -19,8 +19,8 @@ The Widya Analytic Documentation, serves as a centralized and structured knowled
 
 ### Capabilities Demonstrated
 
-- Proficient in <b>building centralized documentation platforms</b>, consolidating system architecture, API references, and service diagrams to support cross-team alignment and scalability.
-- Skilled in <b>visualizing and documenting</b> architecture and service flows, making complex systems more accessible to developers and product teams.
+- Proficient in <b>building centralized documentation platforms</b>, consolidating system architecture, API references, and service diagrams to support cross-team alignment.
+- Skilled in <b>visualizing and documenting</b> architecture and technical flows, making complex systems more accessible to developers and product teams.
 - Experienced in defining and maintaining <b>standardized documentation practices</b>, improving clarity, reducing onboarding time, and ensuring up-to-date technical references.
 
 ### Documentation

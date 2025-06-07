@@ -11,7 +11,7 @@
 <b>Role:</b> Back-End Engineer<br/>
 <b>Duration:</b> 11 months
 
-CRM-ERP system is a backend service responsible for <b>orchestrating end-to-end customer interactions including their transactional data</b>—such as top-up, usage, void, and transfer—across internal systems and a third-party ERP platform. The service acts as a orchestrator ensuring <b>data integrity and near real-time event synchronization</b> to [Zendesk](https://www.zendesk.com), [ActiveCampaign](https://www.activecampaign.com), and [NetSuite Oracle](https://www.apergu.com/netsuiteapergu).
+CRM-ERP system is a backend service responsible for <b>orchestrating end-to-end customer interactions including their transactional data</b>—such as top-up, usage, void, and transfer—across internal systems and a third-party platforms. The service acts as a orchestrator ensuring <b>data integrity and near real-time event synchronization</b> to [Zendesk](https://www.zendesk.com), [ActiveCampaign](https://www.activecampaign.com), and [NetSuite Oracle](https://www.apergu.com/netsuiteapergu).
 
 <b>Tech Stack</b>
 
@@ -24,17 +24,17 @@ CRM-ERP system is a backend service responsible for <b>orchestrating end-to-end 
 ### Challenges
 
 - Ensured <b>high consistency and low-latency performance</b> for transaction-heavy workloads under high traffic.
-- Handled shadow balance/subscription logic to <b>maintain transactional accuracy</b> before ERP confirmation.
+- Delivered shadow balance/subscription logic to <b>maintain transactional accuracy</b> before ERP confirmation.
 - Supported <b>seamless data migration</b> while maintaining system integrity and uptime.
 
 ### Contributions
 
-- Designed and implemented core processes for top-up, transfer, void, and usage flows, <b>ensuring accurate ERP integration</b> across multiple business models.
+- Designed and implemented core processes for top-up, transfer, void, and usage balance modules, <b>ensuring accurate ERP integration</b> across multiple business models.
 - Built an <b>event-driven orchestration</b> layer to handle various business-specific transaction behaviors with asynchronous communication patterns.
 
 ### Capabilities Demonstrated
 
-- Proficient in building robust <b>event-driven microservices</b> in <b>Golang</b> using <b>Google Pub/Sub</b> and <b>Redis</b>.
+- Proficient in building robust <b>event-driven architecture</b> in <b>Go</b> using <b>Google Pub/Sub</b> and <b>Redis</b> as message brokers.
 - Experienced in <b>integrating the third-party CRM-ERP systems</b> with strong data consistency guarantees.
 
 ### Architecture

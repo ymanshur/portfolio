@@ -21,15 +21,15 @@ Tour-agent application is a platform designed to facilitate transactions between
 
 ### Challenges
 
-When working on this project, a key challenge was understanding and <b>adapting to the existing code</b> from previous developers, along with the current business processes and features, before any development or fixes could begin.
+When working on this project, a key challenge was understanding and <b>adapting to the existing code</b> from previous development, along with the current business processes and features, before any improvement or fixes could begin.
 
 ### Contributions
 
 During that process, we found we needed to <b>redesign the architecture</b>, which involved:
 
-- <b>Adding an API Gateway</b>: Previously, applications like the Tour dashboard had to go through the Tour-backend service to get document data. With the API Gateway, the front-end can now directly access data from the relevant source. The API Gateway also acts as an abstraction layer for internal and external communication, significantly improving security.
+- <b>Adding an API Gateway</b>: Previously, i.e. applications like the Tour dashboard had to go through the Tour-backend instead of Verifier-backend service to get document data. With the API Gateway, the front-end can now directly access data from the relevant source. The API Gateway also acts as an abstraction layer for internal and external communication, significantly improving security.
 
-- <b>Eliminating potential bottlenecks</b>: Originally, the Tour and Verifier applications' authentication processes relied on a central "Dolphin" authentication service. The idea was to centralize authentication to be independent and reusable across all applications (Tour landing, Tour, Verifier dashboard), especially when integrating third-party authenticators like Privy. However, "Dolphin" wasn't directly used by the front-end; it still had to go through each related service. This created a <b>"tightly coupled" system</b> with circular dependencies. Eliminating "Dolphin" became the best solution to reduce risk and development effort.
+- <b>Eliminating potential bottlenecks</b>: Originally, the Tour and Verifier dashboard's authentication processes relied on a central "Dolphin" authentication service. The idea was to centralize authentication to be independent and reusable across all applications (Tour landing, Tour, and Verifier dashboard), especially when integrating third-party authenticators like Privy. However, "Dolphin" wasn't directly used by the front-end; it still had to go through each related service. This created a <b>"tightly coupled"</b> service with circular dependencies. Eliminating "Dolphin" became the best solution to reduce risk and development effort.
 
     <b>Trade-off:</b> Duplicated authentication modules across all services lead to significant maintenance overhead, particularly with third-party integrations. This structure necessitates redundant implementation whenever a new authentication provider is introduced.
 
@@ -37,8 +37,8 @@ During that process, we found we needed to <b>redesign the architecture</b>, whi
 
 ### Capabilities Demonstrated
 
-- Proficient in <b>redesigning microservices architectures</b>, enhancing service choreography to boost communication efficiency and system reliability.
-- Experienced in designing and <b>implementing internal API Gateways</b> to centralize API management, strengthening security and maintainability.
+- Proficient in <b>redesigning microservices architecture</b>, enhancing service choreography to boost communication reliability and system maintainability.
+- Experienced in designing and <b>implementing API Gateways</b> to centralize API management, strengthening security and maintainability.
 - Adept at integrating observability tools like <b>Datadog</b> to enable thorough system monitoring and performance insights.
 - Knowledgeable in implementing compliance measures to <b>protect Personally Identifiable Information (PII)</b> and ensure regulatory adherence.
 
