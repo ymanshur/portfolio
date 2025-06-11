@@ -4,7 +4,7 @@
 
 #### [Transaction-Wallet](/portfolio/2025_privy_transaction_wallet)
 
-A distributed financial transactions and ledger ecosystem built to orchestrate balance actions
+A distributed financial transactions and ledger ecosystem built to orchestrate balance actions.
 
 ### 2024
 

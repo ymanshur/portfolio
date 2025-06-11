@@ -11,7 +11,17 @@
 <b>Role:</b> Back-End Engineer<br/>
 <b>Duration:</b> 11 months
 
-CRM-ERP system is a backend service responsible for <b>orchestrating end-to-end customer interactions including their transactional data</b>—such as top-up, usage, void, and transfer—across internal systems and a third-party platforms. The service acts as a orchestrator ensuring <b>data integrity and near real-time event synchronization</b> to [Zendesk](https://www.zendesk.com), [ActiveCampaign](https://www.activecampaign.com), and [NetSuite Oracle](https://www.apergu.com/netsuiteapergu).
+### Background
+
+At that time, the CRM and ERP platforms operated in silos, with <b>data flows between systems managed manually</b>. This resulted in fragmented workflows, frequent delays, and high potential for human error. Year-end reconciliation was particularly painful—requiring manual data extraction and alignment across disparate data sources, often leading the mismatched opening and closing balances.
+
+Our objective was to establish a unified, <b>automated pipeline across CRM, ERP, and internal platforms</b>. By eliminating manual intervention, we aimed to reduce data drift, improve reporting accuracy, and enable real-time visibility across marketing, sales, finance, and product teams.
+
+To enable this, we required a workflow orchestration layer capable of handling complex, event-driven synchronization. The system needed to support bi-directional data flow, exception handling, and automated triggers—improving <b>data reliability and operational efficiency</b>.
+
+## CRM - ERP GoldenGate
+
+CRM-ERP GoldenGate is a backend service responsible for <b>orchestrating end-to-end customer interactions including their transactional data</b>—such as top-up, usage, void, and transfer—across internal systems and a third-party platforms. The service acts as a orchestrator ensuring <b>data integrity and near real-time event synchronization</b> to [Zendesk](https://www.zendesk.com), [ActiveCampaign](https://www.activecampaign.com), and [NetSuite Oracle](https://www.apergu.com/netsuiteapergu).
 
 <b>Tech Stack</b>
 
@@ -24,7 +34,7 @@ CRM-ERP system is a backend service responsible for <b>orchestrating end-to-end 
 ### Challenges
 
 - Ensured <b>high consistency and low-latency performance</b> for transaction-heavy workloads under high traffic.
-- Delivered shadow balance/subscription logic to <b>maintain transactional accuracy</b> before ERP confirmation.
+- Delivered shadow balance/subscription logic to <b>maintain transactional accuracy</b> before ERP synchronization.
 - Supported <b>seamless data migration</b> while maintaining system integrity and uptime.
 
 ### Contributions

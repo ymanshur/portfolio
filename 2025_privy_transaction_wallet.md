@@ -1,4 +1,4 @@
-# Privy: Transaction-Wallet System
+# Privy: Transaction-Wallet
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-%23244b5a?style=for-the-badge&logoColor=%23244b5a)
@@ -12,10 +12,20 @@
 <b>Role:</b> Back-End Engineer<br/>
 <b>Duration:</b> 9 months
 
-Transaction-Wallet is a distributed financial transactions and ledger ecosystem built to orchestrate balance actions (e.g., top-up, usage, cancel, transfer) and record cost-revenue events to an internal ERP system. The platform consists of two core services:
+### Background
 
-- <b>Transaction Service</b> – Acts as a data aggregator, handling real-time balance actions and routing financial records to the ERP system.
-- <b>Wallet Service</b> – Serves as the centralized ledger, maintaining accurate, auditable records of all user balances and usage operations.
+In today’s data driven-landscape, It’s ironic for a digital-first company to struggle with managing its own internal data (including users data)— especially when the data is critical to shaping future business decisions.
+
+A core issue we faced was that <b>the internal data was scattered across multiple systems</b>, each with its own workflow, schema, and logic. This siloed operations made it <b>difficult to consistently track profit and loss</b> across units and prevented us from forming a cohesive view of user behavior and transactions.
+
+To address this, we introduced the concept of an centralized data ecosystem—<b>an internal “tribe” responsible for transforming disparate data sources</b> into a unified format that aligns with  financial reporting requirements  and supports accurate business evaluation.
+
+## Transaction Wallet Services
+
+Transaction-Wallet is a distributed financial transactions and ledger ecosystem built to orchestrate balance actions (e.g., top-up, book, usage, cancel, transfer) and record cost-revenue events to an internal ERP system. The platform consists of two core services:
+
+- <b>Transaction Service</b> – Acts as a data aggregator, handling real-time balance actions and routing transactions to the ERP system.
+- <b>Wallet Service</b> – Serves as the centralized ledger, maintaining accurate, auditable transactions of all user balances and usage operations.
 
 Designed with event-driven principles and optimized for high availability, low latency, and strong consistency across services.
 
