@@ -72,6 +72,8 @@ Designed with event-driven principles and optimized for high availability, low l
     <figcaption style="text-align:center"><small>Figure 1. Transaction-Wallet architecture</small></figcaption>
 </figure>
 
+____
+
 <div style="page-break-after: always;"></div>
 
 # Privy Integration: CRM - ERP Orchestrator
@@ -147,6 +149,8 @@ ____
 Related articles:
 
 - [When Good Systems Go Unadopted: Lessons from Building an ERP Orchestration Layer— Medium](https://medium.com/@ymanshur/when-good-systems-go-unadopted-lessons-from-building-an-erp-orchestration-layer-2695c238daf4)
+
+____
 
 <div style="page-break-after: always;"></div>
 
@@ -277,6 +281,8 @@ Related articles:
 
 - [The right way to design a clustered ecosystem with the Choreography architecture approach— Medium](https://medium.com/@ymanshur/the-right-way-to-design-a-clustered-ecosystem-with-the-choreography-architecture-approach-9d673e44b07b)
 
+____
+
 <div style="page-break-after: always;"></div>
 
 # Privy Customization: Digital Document Center (DDC)
@@ -400,6 +406,8 @@ The Digital Document Center (DDC) is a comprehensive dashboard to s<b>treamline 
     <figcaption style="text-align:center"><small>Capture 8. HTTP Logs</small></figcaption>
 </figure>
 
+____
+
 <div style="page-break-after: always;"></div>
 
 # Widya Analytic: Documentation Platform
@@ -470,6 +478,8 @@ The Widya Analytic Documentation platform, serves as a centralized and structure
     <figcaption style="text-align:center"><small>Capture 4. Documentation - Endpoint</small></figcaption>
 </figure>
 
+____
+
 <div style="page-break-after: always;"></div>
 
 # Widya Analytic: Store Platform
@@ -529,6 +539,8 @@ A comprehensive web platform that hosts the <b>Widya Analytic product store</b>,
     </a>
     <figcaption style="text-align:center"><small>Capture 1. Widya Analytic Store - Banner</small></figcaption>
 </figure>
+
+____
 
 <div style="page-break-after: always;"></div>
 
