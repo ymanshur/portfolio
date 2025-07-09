@@ -1,10 +1,11 @@
-# Privy Integration: CRM - ERP Orchestrator
+# Privy Integration: CRM-ERP Orchestrator
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-%23244b5a?style=for-the-badge&logoColor=%23244b5a)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Google Pub/Sub](https://img.shields.io/badge/googlepubsub-%234285F4?style=for-the-badge&logo=googlepubsub&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
 
@@ -13,39 +14,44 @@
 
 ### Background
 
-At that time, the CRM and ERP platforms operated in silos, with <b>data flows between systems managed manually</b>. This resulted in fragmented workflows, frequent delays, and high potential for human error. Year-end reconciliation was particularly painful—requiring manual data extraction and alignment across disparate data sources, often leading the mismatched opening and closing balances.
+At that time, the CRM and ERP platforms operated in silos, with data flows between systems <b>managed manually</b>. This resulted in fragmented workflows, frequent delays, and high potential for human error. Year-end reconciliation was particularly painful—requiring manual data extraction and alignment across disparate data sources, often leading the mismatched opening and closing balances.
 
-Our objective was to establish a unified, <b>automated pipeline across CRM, ERP, and internal platforms</b>. By eliminating manual intervention, we aimed to reduce data drift, improve reporting accuracy, and enable real-time visibility across marketing, sales, finance, and product teams.
+Our objective was to establish a unified, <b>automated pipeline</b> across CRM, ERP, and internal platforms. By eliminating manual intervention, we aimed to reduce data drift, improve reporting accuracy, and enable real-time visibility across marketing, sales, finance, and product teams.
 
-To enable this, we required a workflow orchestration layer capable of handling complex, event-driven synchronization. The system needed to support bi-directional data flow, exception handling, and automated triggers—improving <b>data reliability and operational efficiency</b>.
+To enable this, we required a workflow orchestration layer capable of handling complex, event-driven synchronization. The system needed to support bi-directional data flow, exception handling, and automated triggers—improving <b>data reliability</b> and <b>operational efficiency</b>.
 
 ## CRM - ERP GoldenGate
 
-CRM-ERP GoldenGate is a backend service responsible for <b>orchestrating end-to-end customer interactions including their transactional data</b>—such as top-up, usage, void, and transfer—across internal systems and a third-party platforms. The service acts as a orchestrator ensuring <b>data integrity and near real-time event synchronization</b> to [Zendesk](https://www.zendesk.com), [ActiveCampaign](https://www.activecampaign.com), and [NetSuite Oracle](https://www.apergu.com/netsuiteapergu).
+CRM-ERP GoldenGate is a system responsible for <b>orchestrating</b> end-to-end customer interactions including their transactional data—such as top-up, usage, void, and transfer—across internal systems and a third-party platforms. The service acts as a orchestrator ensuring <b>data integrity and near real-time event synchronization</b> to [Zendesk](https://www.zendesk.com), [ActiveCampaign](https://www.activecampaign.com), and [NetSuite Oracle](https://www.apergu.com/netsuiteapergu).
 
 <b>Tech Stack</b>
 
 - <b>Language:</b> Golang
-- <b>Database:</b> PostgreSQL
+- <b>Database:</b> PostgreSQL, ClickHouse
 - <b>Caching & Messaging:</b> Redis, Google Pub/Sub
 - <b>CI/CD & Containerization:</b> GitLab CI, Docker, Kubernetes
 - <b>APM:</b> Datadog
 
 ### Challenges
 
-- Ensured <b>high consistency and low-latency performance</b> for transaction-heavy workloads under high traffic.
-- Delivered shadow balance/subscription logic to <b>maintain transactional accuracy</b> before ERP synchronization.
-- Supported <b>seamless data migration</b> while maintaining system integrity and uptime.
+- Enable CRM-ERP integration and <b>seamlessly synchronized</b> with internal platforms.
+- Ensure <b>high consistency</b> and <b>low-latency performance</b> for transaction-heavy workloads under high traffic.
+- Deliver shadow balance/subscription logic to maintain <b>transactional accuracy</b> before ERP synchronization.
+- Support seamless <b>data migration</b> while maintaining system integrity and uptime.
 
 ### Contributions
 
-- Designed and implemented core processes for top-up, transfer, void, and usage balance modules, <b>ensuring accurate ERP integration</b> across multiple business models.
-- Built an <b>event-driven orchestration</b> layer to handle various business-specific transaction behaviors with asynchronous communication patterns.
+- Designed and implemented core processes for top-up, transfer, void, and usage balance modules, ensuring accurate <b>ERP integration</b> across multiple business models.
+- Built an <b>event-driven</b> orchestration layer to handle various business-specific transaction behaviors with asynchronous <b>communication</b> patterns.
+- Developed shadow subscription service that provide <b>usage transactions querying</b> in FIFO and LIFO scenario based on payment setting.
+- Introduced <b>distributed scheduler</b> by leveraging Redis distributed locks to handle aggregated daily usage transactions synchronized to ERP.
+- Leveraged Redis queue to implement <b>worker-pool mechanism</b> for logs the integration process <b>asynchronously</b>.
 
 ### Capabilities Demonstrated
 
-- Proficient in building robust <b>event-driven architecture</b> in <b>Go</b> using <b>Google Pub/Sub</b> and <b>Redis</b> as message brokers.
-- Experienced in <b>integrating the third-party CRM-ERP systems</b> with strong data consistency guarantees.
+- Experienced in integrating the third-party CRM-ERP systems with strong <b>transaction atomicity</b> guarantees.
+- Proficient in providing  robust <b>reactive solutions</b> in Go using Google Pub/Sub and Redis as message brokers.
+- Skilled in implementing database partitioning, distributed states, data integrity, and asynchronous process for <b>low-latency</b> systems.
 
 ### Architecture
 

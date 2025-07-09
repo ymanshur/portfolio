@@ -19,14 +19,14 @@ Toba.AI is Widya Analytic’s flagship product that leverages artificial intelli
 
 ### Contributions
 
-- <b>Insight API Development:</b> Engineered backend APIs to deliver analytical insights from Instagram account data, powering visualizations and metrics across the <b>"Audiens," "Kompetitor,"</b> and <b>"Performa"</b> dashboard.
-- <b>Analytical Data Aggregation:</b> Built complex query logic to perform multi-dimensional aggregation, including time-series breakdowns, sentiment tracking, and statistical number.
-- <b>Scalable Data Architecture:</b> Ensured high-performance delivery of insights by optimizing query structures and schema designs within PostgreSQL to handle large-scale analytical workloads.
+- Engineered backend APIs to deliver <b>analytical insights</b> from Instagram account data, powering <b>visualizations</b> and metrics across the 'Audiens', 'Kompetitor', and 'Performa' dashboard.
+- Built <b>complex query</b> logic to perform multi-dimensional aggregation, including time-series breakdowns, sentiment tracking, and statistical number.
+- Ensured high-performance delivery of insights by <b>optimizing query<b> structures and <b>schema designs<b> (_materialized view_) within PostgreSQL to handle large-scale analytical workloads.
 
 ### Capabilities Demonstrated
 
-- Skilled in designing and developing <b>RESTful APIs that serve complex analytical data</b>, enabling insight-driven user experiences through visual dashboards and metrics.
-- Experienced in crafting <b>complex SQL queries</b> to perform multi-dimensional data aggregation (data cube).
+- Skilled in designing and developing RESTful APIs that serve <b>complex analytical data</b>, enabling insight-driven user experiences through visual dashboards and metrics.
+- Experienced in crafting complex SQL queries to perform <b>multi-dimensional data aggregation</b> (data cube).
 
 ### Architecture
 

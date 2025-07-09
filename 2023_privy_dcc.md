@@ -1,6 +1,6 @@
 # Privy Customization: Digital Document Center (DDC)
 
-![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -8,7 +8,7 @@
 <b>Role:</b> Back-End Engineer<br/>
 <b>Duration:</b> 6 months
 
-The Digital Document Center (DDC) is a comprehensive dashboard to s<b>treamline and monitor document lifecycle activities</b>, including upload, distribution (blast), approval, rejection, and electronic signing (both standard and with e-Meterai). This system is seamlessly integrated with Privy, allowing secure and compliant <b>digital signature capabilities</b>.
+The Digital Document Center (DDC) is a comprehensive dashboard to <b>streamline and monitor document lifecycle activities</b>, including upload, distribution (blast), approval, rejection, and electronic signing (both standard and with e-Meterai). This system is seamlessly integrated with Privy, allowing secure and compliant <b>digital signature capabilities</b>.
 
 <b>Tech Stack<b>
 
@@ -20,7 +20,7 @@ The Digital Document Center (DDC) is a comprehensive dashboard to s<b>treamline 
 ### Contributions
 
 - Implemented a feature for signing documents with <b>custom QR codes</b> using the [HexaPDF](https://hexapdf.gettalong.org) library.
-- Developed a <b>top-up/transfer balance API</b>, integrated with two internal systems related to invoicing and warehousing process (e.g., Portal and Sales).
+- Developed a <b>top-up or transfer balance API</b>, integrated with two internal systems related to invoicing and warehousing process (e.g., Portal and Sales).
 - Built a <b>user management system</b> with 3-level main hierarchical access (Area, Branch, Department), supporting 340+ enterprise users and 250+ departments.
     <figure style="width:50%">
         <a href="images/privy_dcc_user_hierarchy.jpg.png"
@@ -33,12 +33,12 @@ The Digital Document Center (DDC) is a comprehensive dashboard to s<b>treamline 
 
 ### Capabilities Demonstrated
 
-- Quickly <b>adapted to a legacy codebase</b> written in Ruby, a new programming language at the time.
+- Quickly adapted to a <b>legacy codebase</b> written in Ruby, a new programming language at the time.
 - Proactively aligned all new features and improvements with the existing code patterns and architecture.
-- Proficient in building <b>RESTful APIs using Ruby on Rails</b> and Grape API (micro-framework).
+- Proficient in building RESTful APIs using <b>Ruby on Rails</b> and <b>Grape API</b> (micro-framework).
 - Experienced in <b>integrating third-party services</b> (e.g., e-materai and digital signatures with Privy).
-- Strong understanding of enterprise <b>user management and multi-level permission systems.</b>
-- <b>Familiar with CI/CD pipelines</b> and container orchestration using Jenkins and Docker.
+- Strong understanding of enterprise <b>user management</b> and multi-level permission systems.
+- Familiar with <b>CI/CD pipelines</b> and container orchestration using Jenkins and Docker.
 
 ### Documentation
 

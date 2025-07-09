@@ -5,23 +5,23 @@
 <b>Role:</b> Technical Writer<br/>
 <b>Duration:</b> 2 months
 
-The Widya Analytic Documentation platform, serves as a centralized and structured knowledge base for all product and engineering documentations. It consolidates critical information such as <b>High-Level Architecture (HLA)</b> diagrams, <b>API specifications</b>, and <b>service sequence diagrams</b>, ensuring alignment between engineering and product teams. This platform was designed to support clarity and accessibility as Widya Analytic's systems evolved.
+The Widya Analytic Documentation platform, serves as a centralized and structured knowledge base for all product and engineering documentations. It <b>consolidates critical information</b> such as High-Level Architecture (HLA) diagrams, API specifications, and service sequence diagrams, ensuring alignment between engineering and product teams. This platform was designed to support clarity and accessibility as Widya Analytic's systems evolved.
 
 <b>Tech Stack:</b> Markdown, Sphinx
 
 ### Contributions
 
-- <b>Developed and maintained</b> a comprehensive documentation portal with [Sphinx](https://www.sphinx-doc.org/), covering all major system components and development workflows.
+- Developed and maintained a comprehensive documentation portal with [Sphinx](https://www.sphinx-doc.org/), covering all major <b>system components</b> and <b>development workflows</b>.
 - <b>Standardized documentation structure</b> across teams, improving consistency, readability, and ease of navigation.
-- <b>Documented High-Level Architectures (HLA), APIs, and service interactions</b>, enabling faster understanding and onboarding for internal stakeholders.
-- <b>Improved developer experience</b> by ensuring all technical references were up-to-date, version-controlled, and easily accessible.
-- <b>Enhanced visual communication</b> through integrated diagrams that clearly illustrated system flows and dependencies.
+- Documented <b>High-Level Architectures (HLA)</b>, <b>APIs</b>, and <b>service interactions</b>, enabling faster understanding and onboarding for internal stakeholders.
+- Improved <b>developer experience</b> by ensuring all technical references were up-to-date, version-controlled, and easily accessible.
+- Enhanced <b>visual communication</b> through integrated diagrams that clearly illustrated system flows and dependencies.
 
 ### Capabilities Demonstrated
 
-- Proficient in <b>building centralized documentation platforms</b>, consolidating system architecture, API references, and service diagrams to support cross-team alignment.
-- Skilled in <b>visualizing and documenting</b> architecture and technical flows, making complex systems more accessible to developers and product teams.
-- Experienced in defining and maintaining <b>standardized documentation practices</b>, improving clarity, reducing onboarding time, and ensuring up-to-date technical references.
+- Proficient in building <b>centralized documentation</b> platforms, consolidating system architecture, API references, and service diagrams to support cross-team alignment.
+- Skilled in <b>visualizing</b> and <b>documenting</b> architecture and technical flows, making complex systems more accessible to developers and product teams.
+- Experienced in defining and maintaining <b>standardized documentation</b> practices, improving clarity, reducing onboarding time, and ensuring up-to-date technical references.
 
 ### Documentation
 
