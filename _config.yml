@@ -2,10 +2,9 @@ title: Yusuf Manshur # your name (or website title) here
 # logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description:
   > # your text below (remove <br> elements if you don't need line breaks)
-  <p>I am a software engineer with over five years of experience— consistently leveraging best practices to deliver robust, efficient software.</p>
+  <p>I am a software engineer who consistently leverages best practices to deliver robust, efficient software.</p>
   <p>My expertise spans <em>monitoring dashboard</em>, <em>system integration</em>, and significantly contributed to <em>transactional data orchestration</em> systems.</p>
   <p>For any questions, please reach out me on  <a target="_blank" href="https://www.linkedin.com/in/ymanshur/">LinkedIn</a></p>
-  <p>View my <a target="_blank" href="https://medium.com/@ymanshur">stories</a></p>
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
