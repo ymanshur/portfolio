@@ -1,12 +1,12 @@
-title: Yusuf Manshur # your name (or website title) here
-# logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: M. Yusuf Manshur
+logo: "/images/photo.png"
 description:
   > # your text below (remove <br> elements if you don't need line breaks)
-  <p>I am a software engineer who consistently leverages best practices to deliver robust, efficient software.</p>
-  <p>My expertise spans <em>monitoring dashboard</em>, <em>system integration</em>, and significantly contributed to <em>transactional data orchestration</em> systems.</p>
-  <p>For any questions, please reach out me on  <a target="_blank" href="https://www.linkedin.com/in/ymanshur/">LinkedIn</a></p>
+  <p>My expertise spans <em>dashboard monitoring</em>, <em>system integration</em>, and significantly contributed to <em>transactional data orchestration</em> systems.</p>
+  <p>I am committed to continuous learning about backend development and exploring any cutting-edge technologies through my <a target="_blank"" href="https://github.com/ymanshur">GitHub</a>
+  <p>For further discussion, feel free to reach out to me via <a target="_blank" href="https://www.linkedin.com/in/ymanshur/">LinkedIn</a></p>
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
-google_analytics: G-298WSMBJQV # your Google Analytics tracking ID here
+google_analytics: G-298WSMBJQV
